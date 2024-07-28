@@ -1,2 +1,17 @@
 # BasicPaytm
-This is a Basic Paytm Application to implement Transactions and Full Stack projects
+BasicPaytm is a full-stack application built using the MERN stack (MongoDB, Express, React, Node.js) with TypeScript. The project integrates Tailwind CSS for styling and uses JWT tokens for secure authentication. React Router DOM manages client-side routing, and the application includes features for managing transactions.
+
+## Features
+* Authentication: Secure user login and     registration using JWT tokens.
+* Transactions: View, add, and manage financial transactions.
+* Responsive UI: Styled with Tailwind CSS for a modern and responsive design.
+* Routing: Managed with React Router DOM for smooth navigation.
+* Technologies Used
+- Frontend: React, TypeScript, Tailwind CSS, React Router DOM
+- Backend: Node.js, Express, MongoDB
+- Authentication: JWT tokens
+
+
+## Usage
+* User Authentication: Register or log in to access the platform.
+* Transaction Management: Add, view, and manage your transactions
