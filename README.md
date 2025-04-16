@@ -1,4 +1,4 @@
-# BasicPaytm
+# PayZap
 PayZap is a full-stack application built using the MERN stack (MongoDB, Express, React, Node.js) with TypeScript. The project integrates Tailwind CSS for styling and uses JWT tokens for secure authentication. React Router DOM manages client-side routing, and the application includes features for managing transactions.
 
 ## Features
